@@ -41,22 +41,22 @@ global.pdana = '-'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa2 = '083816532656'axis
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
+global.nomorbot = '6283816532656'
+global.nomorown = '6283816532656'
 global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nameown = 'アリア'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
+  ['6283816532656'],
+  ['6283816532656'],
+  ['6283816532656'],
+  ['62816532656', 'アリア', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
